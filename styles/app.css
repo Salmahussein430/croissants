@@ -1,0 +1,18 @@
+body {
+  background: #f8e8a6;
+  margin-top: 30px;
+}
+
+h1,
+p,
+footer {
+  text-align: center;
+}
+footer a {
+  color: green;
+  margin: 0 10px;
+}
+img {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
